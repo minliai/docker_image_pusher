@@ -1,7 +1,5 @@
 nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
-enwaiax/x-ui:latest
 mysql
 mongo
